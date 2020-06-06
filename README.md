@@ -13,3 +13,5 @@ This is a collection of my Data Science study material, I studied few years back
 * Choropleth Maps
 
 Aggresive and Bottom-up learners can use this repository as a starting point to get into Data Science, Machine Learning and Deep Learning.
+
+### If you like this Repo, give it a star
